@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oq0hUk6W+v6aFKI8R9yoB91P59grHuk2nruJ7Km3clJerD+NmGwC17YdZodeJ/l7QnowrSBMQreN7r9o9X1koA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SruthiRagul\\Source\\Repos\\myNetApp\\MyNetWebApp\\MyNetWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SruthiRagul\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
